@@ -28,12 +28,22 @@ img.img {
 	height: auto;
 	 */  
  
-	width: 264px;
-	height: 52px;
+	width: 208px;
+	height: 58px;
 }
 
 
 
+/* Este es el tamaño de la imagen de inicio  */ 
+img {
+	  /*  
+	max-width: 100%;
+	height: auto;
+	 */  
+ 
+	width: 36em;
+	height: 144px;
+}
 
 
 
@@ -231,4 +241,217 @@ body {
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#twitter_unad{
+	
+
+/*    Relleno Superior    */ 
+	/*  display: inline-block;
+	 */ 
+	width: 17%;
+	
+        float: right;  
+        margin-top: -104em
+	
+	}
+
+
+#twitter_unad1{
+	
+
+/*    Relleno Superior    */ 
+	/*  display: inline-block;
+	 */ 
+	width: 17%;
+	
+        float: left;  
+        margin-top: -104em
+	
+	}
+
+
+
+
+
+.boton_volver{
+	
+
+	margin-top: 50px;
+
+
+	}
+
+
+
+.subtitulo_1{
+	color: #000000;
+
+		font-weight: bold;
+	
+		font-size: 2em;
+}
+
+
+.subtitulo_1_centro{
+	color: #000000;
+	font-weight: bold;
+	font-size: 2em;
+	text-align: center;
+}
+
+
+
+.subtitulo_2{
+	color: #000000;
+	font-weight: bold;
+	font-size: 1.5em;
+}
+
+
+
+
+.subtitulo_2_centro{
+	color: #000000;
+	font-weight: bold;
+	font-size: 1.5em;
+	text-align: center;
+}
+
+
+.parrafo_1{
+	text-align: left;
+	line-height: 25px;
+	font-size: 1em;
+	padding-top: 16px;
+	padding-bottom: 0px;
+}
+
+
+
+.img_izquierda{
+	float: left;
+	margin: 15px;
+}
+
+
+
+.img_derecha{
+	float: right;
+	margin: 15px;
+}
+
+
+
+.lista_1{
+	margin-left: 15px;
+	line-height: 30px;
+}
+
+
+
+.referencias{
+	font-size: larger;
+	font-weight: bolder;
+	padding-top: 80px;
+	border-bottom: 1px dashed #666666;
+}
+
+
+
+.pie_pagina{
+	text-align: center;
+	line-height: 30px;
+}
+
+
+.black{
+	color: #000000;
+}
+
+
+.white{
+	color: #ffffff;
+}
+
+
+.red{
+	color: #ff0000;
+}
+
+
+.green{
+	color: #00ff00;
+}
+
+
+.blue{
+	color: #0000ff;
+}
+
+
+.dark_red{
+	color: #8b0000;
+}
+
+
+@media(max-width: 1800px){
+}
+
+@media(max-width: 800px){
+	footer{
+		background: #400000;
+		margin-top: 0px;
+	}
+	
+
+#menu ul li a{
+		padding: 4px;
+	}
+	
+#contenedor{
+		width: 90%;
+		max-width: 100%;
+	}
+	
+#contenedor img{
+		max-width: 100%;
+		max-height: 100%;
+		text-align: center;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	#twitter_unad{
+		width: 100%;
+	}
+}
+
+
+
  
+
+
+
+
+
+
+
+
+
+
